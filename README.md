@@ -1,3 +1,17 @@
+# FlipOff - My Custom Humorous Version
+
+This is a fork of [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) - all credit to the original creator.
+
+## My Changes
+- Changed quotes to humorous messages
+- Set as screensaver
+
+## Original README
+
+
+---
+
+
 # FlipOff.
 
 **Turn any TV into a retro split-flap display.** The classic flip-board look, without the $3,500 hardware. And it's free.
