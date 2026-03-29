@@ -22,44 +22,43 @@ export const ACCENT_COLORS = [
 export const MESSAGES = [
   [
     '',
-    'GOD IS IN',
-    'THE DETAILS .',
-    '- LUDWIG MIES',
+    '',
+    'F U C K ',
+    '       O F F ',
     ''
   ],
   [
     '',
-    'STAY HUNGRY',
-    'STAY FOOLISH',
-    '- STEVE JOBS',
+    'STAY AWAY',
+    'STAY AWAY',
+    '- STAY AWAY',
     ''
   ],
   [
     '',
-    'GOOD DESIGN IS',
-    'GOOD BUSINESS',
-    '- THOMAS WATSON',
+    'CHECK OUT',
+    'THE OTHE ROOMS',
+    'START FROM WC',
     ''
   ],
   [
     '',
-    'LESS IS MORE',
+    'TAKE A LOOK',
     '',
-    '- MIES VAN DER ROHE',
+    '- DO NOT TOUCH',
     ''
   ],
   [
     '',
-    'MAKE IT SIMPLE',
-    'BUT SIGNIFICANT',
-    '- DON DRAPER',
+    
+    'I WILL BE B A C K',
     ''
   ],
   [
     '',
-    'HAVE NO FEAR OF',
-    'PERFECTION',
-    '- SALVADOR DALI',
+    'THIS IS NOT',
+    ' FANTASTIC LINE',
+    'DO NOT CROSS',
     ''
   ]
 ];
